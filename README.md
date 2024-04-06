@@ -83,6 +83,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/saurabhgunjal1/saurabhgunjal1/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/saurabhgunjal1/saurabhgunjal1/blob/output/github-contribution-grid-snake.svg)
 
 ###

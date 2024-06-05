@@ -5,7 +5,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ###
-- 🔭 I’m currently working on [Qtify](https://qtify-bay-phi.vercel.app/)
 
 - 🌱 I’m currently learning **node.js**
 
